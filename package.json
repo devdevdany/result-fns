@@ -1,0 +1,19 @@
+{
+  "name": "result-fns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devdevdany/result-fns.git"
+  },
+  "author": "Dany Reyna <luisd.reyna@outlook.com> (https://devdevdany.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devdevdany/result-fns/issues"
+  },
+  "homepage": "https://github.com/devdevdany/result-fns#readme"
+}
